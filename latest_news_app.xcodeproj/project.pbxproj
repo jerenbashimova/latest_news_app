@@ -43,7 +43,6 @@
 		0FCD6D412A7BBE06007EDF2F = {
 			isa = PBXGroup;
 			children = (
-				0FCD6D5B2A7BBE86007EDF2F /* Model */,
 				0FCD6D4C2A7BBE06007EDF2F /* latest_news_app */,
 				0FCD6D4B2A7BBE06007EDF2F /* Products */,
 			);
@@ -61,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				0FCD6D4D2A7BBE06007EDF2F /* latest_news_appApp.swift */,
+				0FCD6D5B2A7BBE86007EDF2F /* Model */,
 				0FCD6D602A7BBEF7007EDF2F /* Views */,
 				0FCD6D512A7BBE07007EDF2F /* Assets.xcassets */,
 				0FCD6D532A7BBE07007EDF2F /* Preview Content */,
